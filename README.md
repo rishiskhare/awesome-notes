@@ -4,7 +4,7 @@
 - UC Berkeley's CS 186 Course Notes: https://cs186berkeley.net/notes/
 
 ### Operating Systems
-- Jose Hu's Online Course Notes on UW-Madison's Operating Systems: Three Easy Pieces: https://www.josehu.com/assets/file/ostep-note/operating-systems-ostep.html
+- Online Course Notes on UW-Madison's Operating Systems: Three Easy Pieces (Jose Hu): https://www.josehu.com/assets/file/ostep-note/operating-systems-ostep.html
 
 ### Data Structures
 - UC Berkeley's CS 61B Online Course Textbook: https://cs61b-2.gitbook.io/cs61b-textbook
@@ -20,4 +20,5 @@
 - UC Berkeley's CS 61C Online Course Notes: https://notes.cs61c.org/
 
 ### Machine Learning
-- Illustrated Transformer by Jay Alammar: https://jalammar.github.io/illustrated-transformer/
+- Illustrated Transformer (Jay Alammar): https://jalammar.github.io/illustrated-transformer/
+- PyTorch Notes (Illarion Khlestov): https://ikhlestov.github.io/pages/machine-learning/pytorch-notes/
