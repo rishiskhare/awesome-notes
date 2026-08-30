@@ -18,3 +18,6 @@
 
 ### Computer Architecture
 - UC Berkeley's CS 61C Online Course Notes: https://notes.cs61c.org/
+
+### Machine Learning
+- Illustrated Transformer by Jay Alammar: https://jalammar.github.io/illustrated-transformer/
