@@ -15,3 +15,6 @@
 
 ### Computer Networks and Internet Protocols
 - UC Berkeley's CS 168 Online Course Textbook: https://textbook.cs168.io/
+
+### Computer Architecture
+- UC Berkeley's CS 61C Online Course Notes: https://notes.cs61c.org/
