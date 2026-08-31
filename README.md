@@ -20,5 +20,6 @@
 - UC Berkeley's CS 61C Online Course Notes: https://notes.cs61c.org/
 
 ### Machine Learning
+- MIT's 6.390 Online Course Notes: https://introml.mit.edu/notes/
 - Illustrated Transformer (Jay Alammar): https://jalammar.github.io/illustrated-transformer/
 - PyTorch Notes (Illarion Khlestov): https://ikhlestov.github.io/pages/machine-learning/pytorch-notes/
