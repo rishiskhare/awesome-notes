@@ -23,3 +23,7 @@
 - MIT's 6.390 Online Course Notes: https://introml.mit.edu/notes/
 - Illustrated Transformer (Jay Alammar): https://jalammar.github.io/illustrated-transformer/
 - PyTorch Notes (Illarion Khlestov): https://ikhlestov.github.io/pages/machine-learning/pytorch-notes/
+
+### Linear Algebra
+- Little Book of Linear Algebra: https://little-book-of.github.io/linear-algebra/
+- 3Blue1Brown's Essence of Linear Algebra: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
