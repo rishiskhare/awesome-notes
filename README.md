@@ -27,3 +27,7 @@
 ### Linear Algebra
 - Little Book of Linear Algebra: https://little-book-of.github.io/linear-algebra/
 - 3Blue1Brown's Essence of Linear Algebra: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+
+### GPU Programming
+- NVIDIA CUDA Programming Guide: https://docs.nvidia.com/cuda/cuda-programming-guide/index.html
