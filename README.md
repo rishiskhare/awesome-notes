@@ -28,6 +28,7 @@
 - Little Book of Linear Algebra: https://little-book-of.github.io/linear-algebra/
 - 3Blue1Brown's Essence of Linear Algebra: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 - Introduction to Linear Algebra for Applied Machine Learning (Pablo Caceres): https://pabloinsente.github.io/intro-linear-algebra
+- Linear Algebra Explained in Four Pages (Ivan Savov): https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 
 
 ### GPU Programming
