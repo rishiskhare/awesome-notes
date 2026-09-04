@@ -48,3 +48,4 @@
 ### Coding Interviews
 - Tech Interview Handbook Algorithms Study Cheatsheets: https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
 - Leetcode Patterns (Sean Prashad): https://seanprashad.com/leetcode-patterns/
+- NeetCode 150 and Blind 75 Anki Deck: https://github.com/envico801/Neetcode-150-and-Blind-75
