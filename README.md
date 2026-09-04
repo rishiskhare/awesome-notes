@@ -37,3 +37,6 @@
 
 ### Computer Graphics
 - Computer Graphics from Scratch (Gabriel Gambetta): https://gabrielgambetta.com/computer-graphics-from-scratch/
+
+### Robotics
+- Introduction to Robotics and Perception (Frank Dellaert & Seth Hutchinson): https://www.roboticsbook.org/
