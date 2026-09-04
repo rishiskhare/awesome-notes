@@ -18,6 +18,7 @@
 
 ### Computer Architecture
 - UC Berkeley's CS 61C Online Course Notes: https://notes.cs61c.org/
+- RV32I Green Card: https://notes.cs61c.org/content/misc/rv32i-green-card
 
 ### Machine Learning
 - MIT's 6.390 Online Course Notes: https://introml.mit.edu/notes/
