@@ -25,6 +25,7 @@
 - Illustrated Transformer (Jay Alammar): https://jalammar.github.io/illustrated-transformer/
 - PyTorch Learn the Basics: https://docs.pytorch.org/tutorials/beginner/basics/intro.html
 - PyTorch Cheat Sheet: https://docs.pytorch.org/tutorials/beginner/ptcheat.html
+- Stanford CS 229 Machine Learning Cheatsheets (Afshine & Shervine Amidi): https://stanford.edu/~shervine/teaching/cs-229/
 
 ### Linear Algebra
 - Little Book of Linear Algebra: https://little-book-of.github.io/linear-algebra/
