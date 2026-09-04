@@ -57,3 +57,6 @@
 
 ### US History
 - [ ] APUSH Period Reviews in 10 Minutes (Adam Norris): https://www.youtube.com/watch?v=_p_dNOpqdj0&list=PLlair5BOIPJaUm7qr07c7J-A_zyt2dH3I
+
+### Economics
+- [ ] Microeconomics - Everything You Need to Know: https://www.youtube.com/watch?v=1UxA6JzoT-4
