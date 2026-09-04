@@ -34,3 +34,6 @@
 
 ### C++ Programming
 - Modern C++ Tutorial: C++11 to C++26 On the Fly (Changkun Ou): https://changkun.de/modern-cpp/en-us/01-intro/
+
+### Computer Graphics
+- Computer Graphics from Scratch (Gabriel Gambetta): https://gabrielgambetta.com/computer-graphics-from-scratch/
