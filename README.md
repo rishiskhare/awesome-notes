@@ -50,3 +50,4 @@
 - Leetcode Patterns (Sean Prashad): https://seanprashad.com/leetcode-patterns/
 - NeetCode 150 and Blind 75 Anki Deck: https://github.com/envico801/Neetcode-150-and-Blind-75
 - Python for Coding Interviews (NeetCode): https://www.youtube.com/watch?v=0K_eZGS5NsU
+- NeetCode Roadmap: https://neetcode.io/roadmap
