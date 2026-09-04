@@ -150,13 +150,13 @@ docs(linear-algebra): replace 3Blue1Brown with Little Book of Linear Algebra
 docs(operating-systems): drop dead OSTEP mirror
 ```
 
-**Changes to this skill** — prefix with `skill:` so they are easy to separate from
-the link history.
+**Changes to this skill** — `chore(skill): <what>`, so they are easy to separate
+from the link history.
 
 ```
-skill: add find-notes
-skill: drop the ten-minute skimmability criterion
-skill: loosen the durability rule to allow new resources
+chore(skill): add find-notes
+chore(skill): drop the ten-minute skimmability criterion
+chore(skill): loosen the durability rule to allow new resources
 ```
 
 Either way: **one line, always.** Imperative mood, no trailing period, under 72
