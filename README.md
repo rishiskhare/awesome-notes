@@ -7,7 +7,7 @@
 - [x] Online Course Notes on UW-Madison's Operating Systems: Three Easy Pieces (Jose Hu): https://www.josehu.com/assets/file/ostep-note/operating-systems-ostep.html
 
 ### Data Structures
-- [ ] UC Berkeley's CS 61B Online Course Textbook: https://cs61b-2.gitbook.io/cs61b-textbook
+- [x] UC Berkeley's CS 61B Online Course Textbook: https://cs61b-2.gitbook.io/cs61b-textbook
 
 ### Data Science
 - [ ] UC Berkeley's Data 100 Online Course Textbook: https://ds100.org/course-notes/
