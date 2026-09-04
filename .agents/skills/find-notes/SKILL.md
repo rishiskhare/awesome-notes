@@ -165,13 +165,15 @@ CS 186 notes?** If it is conspicuously longer, or leaves gaps those fill, it doe
 
 ## Output format
 
-Match `README.md` exactly: `### Section`, then `- Title (Author): URL`. The author
-parenthetical goes in only when the work is known by its author. Sections are
-ordered by when they were added — append new ones at the end.
+Match `README.md` exactly: `### Section`, then `- [ ] Title (Author): URL`. Every
+entry is a task-list item — the unchecked box is the read/unread tracker, so a new
+entry always goes in unchecked. The author parenthetical goes in only when the work
+is known by its author. Sections are ordered by when they were added — append new
+ones at the end.
 
 ```
 ### Computer Graphics
-- Computer Graphics from Scratch (Gabriel Gambetta): https://gabrielgambetta.com/computer-graphics-from-scratch/
+- [ ] Computer Graphics from Scratch (Gabriel Gambetta): https://gabrielgambetta.com/computer-graphics-from-scratch/
 ```
 
 A cheatsheet goes in the same section, listed after the notes, named so it reads as
@@ -179,8 +181,8 @@ a reference sheet rather than a second set of notes:
 
 ```
 ### Linear Algebra
-- Introduction to Linear Algebra for Applied Machine Learning (Pablo Caceres): https://pabloinsente.github.io/intro-linear-algebra
-- Linear Algebra Explained in Four Pages (Ivan Savov): https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
+- [ ] Introduction to Linear Algebra for Applied Machine Learning (Pablo Caceres): https://pabloinsente.github.io/intro-linear-algebra
+- [ ] Linear Algebra Explained in Four Pages (Ivan Savov): https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 ```
 
 ## Commits
