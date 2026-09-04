@@ -47,3 +47,4 @@
 
 ### Coding Interviews
 - Tech Interview Handbook Algorithms Study Cheatsheets: https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
+- Leetcode Patterns (Sean Prashad): https://seanprashad.com/leetcode-patterns/
