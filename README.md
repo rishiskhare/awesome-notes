@@ -54,3 +54,6 @@
 - [ ] NeetCode 150 and Blind 75 Anki Deck: https://github.com/envico801/Neetcode-150-and-Blind-75
 - [ ] Python for Coding Interviews (NeetCode): https://www.youtube.com/watch?v=0K_eZGS5NsU
 - [ ] NeetCode Roadmap: https://neetcode.io/roadmap
+
+### US History
+- [ ] APUSH Period Reviews in 10 Minutes (Adam Norris): https://www.youtube.com/watch?v=_p_dNOpqdj0&list=PLlair5BOIPJaUm7qr07c7J-A_zyt2dH3I
