@@ -31,9 +31,13 @@ A candidate qualifies only if it is **all six**:
    concepts you would actually go looking for?
 5. **Concepts over APIs.** Teaches ideas. Tool-specific material qualifies only when
    the tool *is* the topic (see the CUDA and Modern C++ entries in README.md).
-6. **Free and durably hosted.** No paywall, no login, no signup. Prefer a `.edu`
-   course site, a personal domain, or GitHub Pages. Age is evidence of durability
-   but is not required — a strong new resource on stable hosting still qualifies.
+6. **Free and durably hosted.** No paywall, no login, no signup. The test is
+   whether the URL will still resolve in five years and still land on the same
+   section — a stable path, not one that moves when the site is reorganized.
+   Course sites, personal domains, GitHub Pages, and canonical vendor docs all
+   qualify (see the CUDA entry in README.md). Be wary of platform learning
+   portals — `/learn/...`, `/courses/...` — which get restructured, and of
+   `~username` faculty paths, which die when the person moves.
 
 ## Automatic rejections
 
