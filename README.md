@@ -35,7 +35,7 @@
 - NVIDIA CUDA Programming Guide: https://docs.nvidia.com/cuda/cuda-programming-guide/index.html
 
 ### C++ Programming
-- Modern C++ Tutorial: C++11 to C++26 On the Fly (Changkun Ou): https://changkun.de/modern-cpp/en-us/01-intro/
+- LearnCpp Modern C++ Tutorial: https://www.learncpp.com/
 
 ### Computer Graphics
 - Computer Graphics from Scratch (Gabriel Gambetta): https://gabrielgambetta.com/computer-graphics-from-scratch/
