@@ -61,3 +61,6 @@
 ### Economics
 - [ ] Microeconomics - Everything You Need to Know (Jacob Clifford): https://www.youtube.com/watch?v=1UxA6JzoT-4
 - [ ] Macroeconomics - Everything You Need to Know (Jacob Clifford): https://www.youtube.com/watch?v=MKO1icFVtDc
+
+### Compilers
+- [ ] Cornell's CS 4120 Lecture Notes: https://www.cs.cornell.edu/courses/cs4120/2026sp/notes/
