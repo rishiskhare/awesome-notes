@@ -60,3 +60,4 @@
 
 ### Economics
 - [ ] Microeconomics - Everything You Need to Know: https://www.youtube.com/watch?v=1UxA6JzoT-4
+- [ ] Macroeconomics - Everything You Need to Know: https://www.youtube.com/watch?v=MKO1icFVtDc
