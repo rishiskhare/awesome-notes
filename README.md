@@ -36,6 +36,7 @@
 
 ### GPU Programming
 - [ ] NVIDIA CUDA Programming Guide: https://docs.nvidia.com/cuda/cuda-programming-guide/index.html
+- [ ] NVIDIA Modern CUDA Toolbox: https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/
 
 ### C++ Programming
 - [ ] LearnCpp Modern C++ Tutorial: https://www.learncpp.com/
