@@ -140,14 +140,14 @@ ordered by when they were added — append new ones at the end.
 
 One entry per commit.
 
-**README entries** — a plain imperative sentence naming the resource, matching the
-repo's existing history. No type prefix: every such commit is a link change, so a
-prefix that is always the same carries nothing.
+**README entries** — `docs(<topic>): <what>`, where `<topic>` is the README section
+the entry lands in, lowercased. The scope is what carries the signal: it says which
+topic moved without opening the diff.
 
 ```
-Add Computer Graphics from Scratch to README
-Replace 3Blue1Brown link with Little Book of Linear Algebra
-Drop dead OSTEP mirror
+docs(robotics): add Introduction to Robotics and Perception
+docs(linear-algebra): replace 3Blue1Brown with Little Book of Linear Algebra
+docs(operating-systems): drop dead OSTEP mirror
 ```
 
 **Changes to this skill** — prefix with `skill:` so they are easy to separate from
