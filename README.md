@@ -40,7 +40,7 @@
 
 ### C++ Programming
 - [ ] LearnCpp Modern C++ Tutorial: https://www.learncpp.com/
-- [ ] Learn C++ Interactive Tutorial: https://www.learn-cpp.org/
+- [x] Learn C++ Interactive Tutorial: https://www.learn-cpp.org/
 - [ ] Hacking C++ Cheat Sheets and Infographics: https://hackingcpp.com/
 
 ### Computer Graphics
