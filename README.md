@@ -38,6 +38,7 @@
 
 ### GPU Programming
 - [ ] NVIDIA CUDA Programming Guide: https://docs.nvidia.com/cuda/cuda-programming-guide/index.html
+- [ ] GPU Glossary (Modal): https://modal.com/gpu-glossary
 
 ### C++ Programming
 - [ ] LearnCpp Modern C++ Tutorial: https://www.learncpp.com/
