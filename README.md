@@ -13,6 +13,9 @@
 - [ ] UC Berkeley's Data 100 Online Course Textbook: https://ds100.org/course-notes/
 - [x] UC Berkeley's Data 100 Fall 2025 Final Reference Sheet: https://ds100.org/fa26/assets/exams/fa25/fa25_final_reference_sheet.pdf
 
+### Computer Security
+- [ ] UC Berkeley's CS 161 Online Course Textbook: https://textbook.cs161.org/
+
 ### Computer Networks and Internet Protocols
 - [ ] UC Berkeley's CS 168 Online Course Textbook: https://textbook.cs168.io/
 
