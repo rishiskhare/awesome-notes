@@ -39,12 +39,13 @@
 
 ### GPU Programming
 - [ ] NVIDIA CUDA Programming Guide: https://docs.nvidia.com/cuda/cuda-programming-guide/index.html
+- [ ] NVIDIA Modern CUDA Toolbox: https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/
 - [ ] GPU Glossary (Modal): https://modal.com/gpu-glossary
 - [ ] Learn Kernels: https://learn-kernels.com/
 
 ### C++ Programming
 - [ ] LearnCpp Modern C++ Tutorial: https://www.learncpp.com/
-- [ ] Learn C++ Interactive Tutorial: https://www.learn-cpp.org/
+- [x] Learn C++ Interactive Tutorial: https://www.learn-cpp.org/
 - [ ] Hacking C++ Cheat Sheets and Infographics: https://hackingcpp.com/
 
 ### Computer Graphics
@@ -56,12 +57,12 @@
 ### Coding Interviews
 - [ ] Tech Interview Handbook Algorithms Study Cheatsheets: https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
 - [ ] Leetcode Patterns (Sean Prashad): https://seanprashad.com/leetcode-patterns/
-- [ ] NeetCode 150 and Blind 75 Anki Deck: https://github.com/envico801/Neetcode-150-and-Blind-75
+- [x] NeetCode 150 and Blind 75 Anki Deck: https://github.com/envico801/Neetcode-150-and-Blind-75
 - [ ] Python for Coding Interviews (NeetCode): https://www.youtube.com/watch?v=0K_eZGS5NsU
 - [ ] NeetCode Roadmap: https://neetcode.io/roadmap
 
 ### US History
-- [ ] APUSH Period Reviews in 10 Minutes (Adam Norris): https://www.youtube.com/watch?v=_p_dNOpqdj0&list=PLlair5BOIPJaUm7qr07c7J-A_zyt2dH3I
+- [x] APUSH Period Reviews in 10 Minutes (Adam Norris): https://www.youtube.com/watch?v=_p_dNOpqdj0&list=PLlair5BOIPJaUm7qr07c7J-A_zyt2dH3I
 
 ### Economics
 - [ ] Microeconomics - Everything You Need to Know (Jacob Clifford): https://www.youtube.com/watch?v=1UxA6JzoT-4
