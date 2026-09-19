@@ -32,7 +32,7 @@
 - [x] Reinforcement Learning from Human Feedback and LLM Post-Training (Nathan Lambert): https://rlhfbook.com/
 - [x] RL Cheatsheet (Nathan Lambert): https://rlhfbook.com/rl-cheatsheet/
 - [ ] Large Transformer Model Inference Optimization (Lilian Weng): https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
-- [ ] Zero to Mastery Learn PyTorch for Deep Learning (Daniel Bourke): https://www.learnpytorch.io/
+- [x] Zero to Mastery Learn PyTorch for Deep Learning (Daniel Bourke): https://www.learnpytorch.io/
 - [ ] Deep Learning with PyTorch: A 60 Minute Blitz: https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
 ### Linear Algebra
