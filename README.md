@@ -77,3 +77,6 @@
 
 ### Compilers
 - [ ] Cornell's CS 4120 Lecture Notes: https://www.cs.cornell.edu/courses/cs4120/2026sp/notes/
+
+### Non-fiction Books
+- [ ] Summrize: https://www.summrize.com/books
